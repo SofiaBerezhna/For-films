@@ -1,0 +1,86 @@
+body{
+background-color: #f5f5f5 ;
+color: black;
+width: 98%;
+}
+
+.img{
+width: 400px;
+height: 550px;
+margin-left: 30px;
+margin-top: 100px;
+}
+
+.name1{
+position: relative;
+left: 36%;
+bottom: 410px;
+color: black;
+}
+
+
+.n1{
+background-color: #9F0303;
+padding-left: 20%;
+padding-right: 20%;
+padding-top: 2%;
+padding-bottom: 2%;
+color: white;
+position: relative;
+bottom: 130px;
+right: 300px;
+font-size: 30px;
+font-weight: 300%;
+margin-left: -10%;
+}
+
+.inf{
+    color: black;
+    font-size: 20px;
+    padding-top: -5%;
+}
+
+.time{
+    color: black;
+    font-size: 20px;
+    position: relative;
+}
+
+
+.video{
+width: 1100px;
+padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 15px;
+padding-top: 20px;
+margin-top: -180px;
+background-color: black;
+}
+
+.nav{
+position: relative;
+bottom: 230px;
+left: 30px;
+font-size: 30px;
+}
+
+.trailer{
+padding: 10px;
+padding-right: 15px;
+background-color: #720202;
+color: white;
+font-weight: 150%;
+}
+
+.movie{
+padding: 10px;
+color: rgb(0, 0, 0);
+font-weight: 150%;
+}
+
+.movie:hover{
+background-color: #720202;
+opacity: 0.8;
+color: white;
+}
+
